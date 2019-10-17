@@ -11,7 +11,7 @@ package test;
  */
 public class Test {
     
-    // testing add commit
+    // testing pull then add commit
 
     /**
      * @param args the command line arguments
